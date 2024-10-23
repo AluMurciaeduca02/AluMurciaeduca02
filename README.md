@@ -16,21 +16,21 @@ Hola, soy un estudiante en busca de los secretos ocultos que forman parte de la 
 <img src="https://i.gifer.com/Oquk.gif" width="900" Height="50"/>
 
 Convertirme en un desarrollador Full Stack, siempre activo y actualizado, por lo tanto mis objetivos a corto plazo son dominar:
-1. Lenguajes de Programación, Marcas y otros... 🖱️
+1. 🖱️Lenguajes de Programación, Marcas y otros:
     * [**Javascript**](https://developer.mozilla.org/es/docs/Web/JavaScript)
     * [**Python**](https://www.python.org/)
     * [**PHP**](https://www.php.net/manual/es/intro-whatis.php)
     * [**HTML**](https://developer.mozilla.org/es/docs/Web/HTML)
     * [**CSS**](https://developer.mozilla.org/es/docs/Web/CSS)
-2. BBDD
+2. 📱BBDD:
     * [**MySQL**](https://www.mysql.com/)
     * [**Oracle Database**](https://www.oracle.com/es/database/)
     * [**PostgreSQL**](https://www.postgresql.org/)
-3. Inglés Profesional (con enfoque a la programación)
-4. Entornos de Desarrollo
+3. 🔭Inglés Profesional (con enfoque a la programación).
+4. 🧩Entornos de Desarrollo:
     * [**VSC**](https://code.visualstudio.com/)
-5. Git, GitLab, GitHub
-6. Frameworks
+5. 🚀Git, GitLab, GitHub.
+6. ⌨️Frameworks:
 
 | Lenguaje | Framework |
 |--------- | ---------|
@@ -45,7 +45,7 @@ Convertirme en un desarrollador Full Stack, siempre activo y actualizado, por lo
 * Creción de proyectos de Dinamización Cultural
 * Encargado de Inventarios de Proyectos
 
-## Otros Datos
+## Otros Datos 📓
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AluMurciaeduca02&show_icons=true)
 
@@ -53,7 +53,7 @@ Convertirme en un desarrollador Full Stack, siempre activo y actualizado, por lo
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## Contactos y RRSS 📋
+## Contactos y RRSS 📬
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
 <img src="https://i.gifer.com/6fr.gif" width="50" Height="50"/>
