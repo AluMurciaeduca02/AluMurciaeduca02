@@ -45,6 +45,11 @@ Convertirme en un desarrollador Full Stack, siempre activo y actualizado, por lo
 * Creción de proyectos de Dinamización Cultural
 * Encargado de Inventarios de Proyectos
 
+## Otros Datos
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=e02004&show_icons=true)
+
+
 ## Contactos y RRSS 📋
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
