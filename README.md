@@ -13,6 +13,8 @@ Hola, soy un estudiante en busca de los secretos ocultos que forman parte de la 
 
 ## Objetivos 💪
 
+<img src="https://i.gifer.com/Oquk.gif" width="900" Height="50"/>
+
 Convertirme en un desarrollador Full Stack, siempre activo y actualizado, por lo tanto mis objetivos a corto plazo son dominar:
 1. Lenguajes de Programación, Marcas y otros... 🖱️
     * [**Javascript**](https://developer.mozilla.org/es/docs/Web/JavaScript)
@@ -28,6 +30,13 @@ Convertirme en un desarrollador Full Stack, siempre activo y actualizado, por lo
 4. Entornos de Desarrollo
     * [**VSC**](https://code.visualstudio.com/)
 5. Git, GitLab, GitHub
+6. Frameworks
+
+| Lenguaje | Framework |
+|--------- | ---------|
+| ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
 
 ## Experiencia 💰
 
@@ -35,6 +44,11 @@ Convertirme en un desarrollador Full Stack, siempre activo y actualizado, por lo
 * Animación Sociocultural
 * Creción de proyectos de Dinamización Cultural
 * Encargado de Inventarios de Proyectos
+
+## Contactos y RRSS 📋
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+
+<img src="https://i.gifer.com/6fr.gif" width="50" Height="50"/>
 
 ----
 
