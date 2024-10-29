@@ -40,10 +40,10 @@ Convertirme en un desarrollador Full Stack, siempre activo y actualizado, por lo
 
 ## Experiencia 💰
 
-* Atención al cliente
-* Animación Sociocultural
-* Creción de proyectos de Dinamización Cultural
-* Encargado de Inventarios de Proyectos
+* Atención al cliente.
+* Animación Sociocultural.
+* Creción de proyectos de Dinamización Cultural.
+* Encargado de Inventarios de Proyectos.
 
 ## Otros Datos 📓
 
@@ -55,6 +55,8 @@ Convertirme en un desarrollador Full Stack, siempre activo y actualizado, por lo
 
 ## Contactos y RRSS 📬
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+
+Si quieres contactar conmigo utiliza [mi Correo](1656602@Alu.Murciaeduca.es)
 
 <img src="https://i.gifer.com/6fr.gif" width="50" Height="50"/>
 
